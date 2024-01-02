@@ -35,5 +35,5 @@ For any issues related to the project, raise an ISSUE in the respective Reposito
 
 ## 🔗 Links
 
-> ## Checkout the Website [Web Application](https://ayush-kanduri.github.io/Ping-Pong-Game-using-Javascript/)
+> ## Checkout the Website [Web Application](https://roohit12.github.io/pingpong/)
 >
